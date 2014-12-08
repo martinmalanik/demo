@@ -1,3 +1,3 @@
-# Demo projekt
+# Demo projekt 321
 
-Ukazka pre ucely skolenia.
+ASDF Ukazka pre ucely skolenia. ASDF
